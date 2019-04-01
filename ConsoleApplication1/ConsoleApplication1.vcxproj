@@ -163,6 +163,10 @@
   <ItemGroup>
     <ClCompile Include="sentTCP.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+    <None Include="..\WinPcap 教程 - 百度文库.pdf" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
